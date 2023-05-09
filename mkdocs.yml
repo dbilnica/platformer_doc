@@ -1,0 +1,55 @@
+site_name: Platformer
+site_description: A 2D retro-style platformer game created in Unity engine. This game was created as a funal project for the AP8PO course.
+site_author: David Bilnica & Jan Sáblík
+repo_url: https://github.com/sablikj/platformer
+repo_name: platformer
+theme:
+  name: 'material'
+  language: en
+  features:
+    - tabs
+    - instant
+  palette:
+    primary: 'blue'
+    accent: 'deep orange'
+
+nav:
+  - Home: index.md
+  - Scripts:
+    - AudioManager: audio_manager.md  
+    - BossActivator: boss_activator.md
+    - BossBullet: boss_bullet.md
+    - BossTankController: boss_tank_controller.md
+    - BossTankHitBox: boss_tank_hit_box.md
+    - BossTankMine: boss_tank_mine.md
+    - BouncePad: bounce_pad.md
+    - CameraController: camera_controller.md
+    - Checkpoint: checkpoint.md
+    - CheckpointController: checkpoint_controller.md
+    - DamagePlayer: damage_player.md
+    - DestroyOverTime: destroy_over_time.md
+    - EnemyController: enemy_controller.md
+    - FlyingEnemyController: flying_enemy_controller.md
+    - KillPlayer: kill_player.md
+    - LevelExit: level_exit.md
+    - LevelManager: level_manager.md
+    - LSCamera: ls_camera.md
+    - LSManager: ls_manager.md
+    - LSPlayer: ls_player.md
+    - LSUIController: ls_ui_controller.md
+    - MainMenu: main_menu.md
+    - MapPoint: map_point.md
+    - MovingPlatform: moving_platform.md
+    - PauseMenu: pause_menu.md
+    - PickUp: pickup.md
+    - PlayerController: player_controller.md
+    - PlayerHealthController: player_health_controller.md
+    - Slammer: slammer.md
+    - Stompbox: stompbox.md
+    - Switch: switch.md
+    - UIController: ui_controller.md
+    - Victory: victory.md
+
+
+
+
