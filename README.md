@@ -19,10 +19,6 @@ This project aims to provide a fun and engaging 2D platformer experience, featur
 
 Access the online documentation for the Platformer game at [GitHub Pages](https://dbilnica.github.io/platformer_doc/).
 
-## Contributing
-
-If you'd like to contribute to the project, please see the [Contributing Guide](./CONTRIBUTING.md).
-
 ## License
 
 This project is licensed under the [MIT License](./LICENSE.md).
