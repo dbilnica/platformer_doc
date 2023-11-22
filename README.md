@@ -17,7 +17,7 @@ This project aims to provide a fun and engaging 2D platformer experience, featur
 
 ## Online Documentation
 
-Access the online documentation for the Platformer game at [GitHub Pages](https://dbilnica.github.io/platformer_doc/).
+Access the online documentation for the Platformer game at [Vercel](https://platformer-doc.vercel.app/).
 
 ## License
 
