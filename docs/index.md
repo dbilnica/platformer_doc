@@ -1,13 +1,13 @@
 # Welcome to the Platformer Game Documentation
 
-This 2D retro-style platformer game was created in the Unity engine as a final project for the AP8PO course.
+This 2D retro-style platformer game was created in the Unity engine as a final project for the AP9VH course.
 
 ![Game Screenshot](images/game_screenshot.png)
 
 ## Game Features
 
 - 7 engaging levels
-- 3 distinct types of enemies
+- 4 distinct types of enemies
 - Diverse level mechanics including moving platforms, jump pads, and smashers
 - Game progress saving functionality
 - Convenient pause menu
